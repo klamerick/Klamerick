@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Front-End | Técnico em Informática & Agroecologia`**
 
-Me chamo Renan Klamerick, tenho 18 anos e resido em Theobroma, Rondônia. Sou formado como Técnico em Informática e atualmente curso o 4º ano do Técnico em Agroecologia. Tenho grande interesse nas áreas de tecnologia, agroecologia, design gráfico e redes, buscando constantemente aprofundar meus conhecimentos e desenvolver projetos relevantes.
+Olá! Sou Renan Klamerick, tenho 18 anos e moro em Vale do Anari, Rondônia. Sou Técnico em Informática e estou cursando o 4º ano do Técnico em Agroecologia. Tenho grande interesse nas áreas de tecnologia, redes, agroecologia e design gráfico, sempre buscando aprender mais e aplicar esse conhecimento em projetos com propósito.
 
-Atuo como desenvolvedor do AgroEcoLab, um website educacional voltado à Agroecologia e às Escolas Família Agrícola (EFA’s). Paralelamente, estou implantando a Horta Mandala em minha propriedade, com o objetivo de integrar práticas agroecológicas à produção de alimentos saudáveis.
+Atualmente, desenvolvo o AgroEcoLab, um site educacional focado em Agroecologia e nas Escolas Família Agrícola (EFA’s). Também estou implantando a Horta Mandala em minha propriedade, integrando práticas sustentáveis à produção de alimentos saudáveis.
 
-Sou cristão e músico, exercendo a função de baterista na igreja [@ibnbetel.ro](https://www.instagram.com/ibnbetel.ro/). Estou sempre em busca de oportunidades que me permitam unir tecnologia, sustentabilidade e inovação.
+Sou cristão e músico, atuando como baterista independente, com paixão por percussão e expressões artísticas ligadas à fé e à cultura.
 
 **Contato:**  
 📱 +55 69 99391-2197  
