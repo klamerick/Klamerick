@@ -1,112 +1,91 @@
-# 🎮 Renan Klamerick – Estilo Minecraft
+🧱 Renan Klamerick
 
-**`🧙‍♂️ Desenvolvedor Front-End | Técnico em Informática & Agroecologia`**
+⛏️ Desenvolvedor Front-End | Técnico em Informática & Agroecologia
 
-*"Crafting code and crops with passion!"* ✨
+👋 Fala aí! Me chamo Renan Klamerick, tenho 18 anos e vivo no Vale do Anari — Rondônia. Sou Técnico em Informática e curso o 4º ano em Agroecologia. Meu mundo é movido por tecnologia, redes, design gráfico e sustentabilidade.
+Atualmente desenvolvo o projeto AgroEcoLab, um site educacional voltado à Agroecologia e às Escolas Família Agrícola (EFA’s), e também implanto a Horta Mandala, integrando práticas ecológicas e produção consciente.
+
+🛐 Cristão e 🎵 baterista nas horas vagas — meu estilo de vida gira em torno da fé, arte e impacto positivo.
+
+📞 Contato:
+📱 WhatsApp: +55 69 99391-2197
+📸 Instagram: @renanklame
+
 
 ---
 
-### 🧱 Sobre Mim
+🟩 GitHub Stats em Blocos
 
 <p align="left">
+    <a href="https://github.com/klamerick?tab=repositories&sort=stargazers">
+        <img 
+            alt="Estrelas do GitHub" 
+            title="Total de estrelas" 
+            src="https://custom-icon-badges.demolab.com/github/stars/klamerick?color=5faa48&style=for-the-badge&labelColor=4c9a2a&logo=block&label=⭐ Estrelas"
+        />
+    </a>
+    <a href="https://github.com/klamerick?tab=followers">
+        <img 
+            alt="Seguidores do GitHub" 
+            title="Me siga lá!" 
+            src="https://custom-icon-badges.demolab.com/github/followers/klamerick?color=82aaff&labelColor=2e3440&style=for-the-badge&logo=minecraft&label=👥 Seguidores"
+        />
+    </a>
+</p>
+---
+
+🧰 Ferramentas & Blocos de Código
+
+<img 
+align="left" 
+alt="HTML" 
+title="HTML5" 
+width="35px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/> <img 
+align="left" 
+alt="CSS" 
+title="CSS3" 
+width="35px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/> <img 
+align="left" 
+alt="JavaScript" 
+title="JavaScript" 
+width="35px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/> <img 
+align="left" 
+alt="Linux" 
+title="Linux" 
+width="35px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
+---
+
+📈 Minhas Estatísticas no Jogo
+
+<p>
   <img 
-    align="right" 
-    alt="Steve pixel art" 
-    width="120px"
-    src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" 
-  />
-
-Olá, sou Renan! Como um personagem de Minecraft, estou sempre minerando conhecimento e construindo projetos úteis:
-
-- 🏡 Moro em Vale do Anari (bioma: floresta tropical)
-- ⚒️ Ferramentas principais: HTML, CSS, JavaScript
-- 🌱 Cultivando o AgroEcoLab (um site educacional)
-- 🥕 Plantando uma Horta Mandala IRL
-- 🎵 Baterista nos tempos livres (redstone musical?)
-- ✝️ Cristão dedicado
+    align="left" 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px; border-radius: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=klamerick&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br&icon_color=5faa48&title_color=5faa48" 
+  /><img 
+align="left" 
+alt="Linguagens" 
+height="165" 
+style="border-radius: 10px;" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=klamerick&theme=gruvbox&layout=compact&custom_title=Tecnologias+Favoritas&langs_count=4&title_color=5faa48"
+/>
 
 </p>
-
 ---
-
-### 🗺️ Stats do Mundo
-
-```mcfunction
-# Nível: 18
-# XP: 92%
-# Missão atual: Formatura em Agroecologia
-# Inventário principal: [💻, 🌱, 🥁, ✝️]
-```
-
-<p align="center">
-  <img 
-    alt="Achievement unlocked: GitHub Stars" 
-    src="https://minecraftfaces.com/wp-content/badges/achievement/star/achievement-star.png" 
-    height="60px"
-  />
-  <img 
-    alt="Achievement unlocked: Followers" 
-    src="https://minecraftfaces.com/wp-content/badges/achievement/followers/achievement-followers.png" 
-    height="60px"
-  />
-</p>
-
----
-
-### 🛠️ Blocos de Trabalho
-
-| Ferramenta        | Sprite                         | Nível |
-|-------------------|--------------------------------|-------|
-| HTML              | <img src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" width="30"> | III   |
-| CSS               | <img src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" width="30"> | II    |
-| JavaScript        | <img src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" width="30"> | I     |
-| Agroecologia      | <img src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" width="30"> | IV    |
-
----
-
-### 📜 Livro de Feitiços (Projetos)
-
-```mcfunction
-execute as @p run project AgroEcoLab {
-  Objetivo: "Educar sobre agroecologia",
-  Status: "Em desenvolvimento"
-}
-
-execute as @p run project HortaMandala {
-  Objetivo: "Produção sustentável",
-  Status: "Fase de plantio"
-}
-```
-
----
-
-### 📞 Como Me Encontrar
-
-<p align="center">
-  <a href="https://www.minecraft.net">
-    <img 
-      alt="Portal do Nether" 
-      title="Meu LinkedIn" 
-      src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" 
-      width="50px"
-    />
-  </a>
-  <a href="https://www.minecraft.net">
-    <img 
-      alt="Olho do Ender" 
-      title="Meu Instagram" 
-      src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" 
-      width="50px"
-    />
-  </a>
-  <a href="https://www.minecraft.net">
-    <img 
-      alt="Sinal de Fogo" 
-      title="Meu WhatsApp" 
-      src="https://www.minecraft.net/content/dam/minecraft/touchup-2020/minecraft-logo.svg" 
-      width="50px"
-    />
-  </a>
-</p>
-
-*"Notch me abençoe em minhas jornadas!"* ⛏️
