@@ -22,46 +22,40 @@ Atualmente desenvolvo:
 
 ## 🟩 GitHub em Blocos
 
-<p align="left">
-  <a href="https://github.com/klamerick?tab=repositories&sort=stargazers">
-    <img 
-      alt="Estrelas" 
-      src="https://custom-icon-badges.demolab.com/github/stars/klamerick?color=5faa48&style=for-the-badge&labelColor=4c9a2a&logo=block&label=⭐ Estrelas"
-    />
-  </a>
-  <a href="https://github.com/klamerick?tab=followers">
-    <img 
-      alt="Seguidores" 
-      src="https://custom-icon-badges.demolab.com/github/followers/klamerick?color=82aaff&labelColor=2e3440&style=for-the-badge&logo=minecraft&label=👥 Seguidores"
-    />
-  </a>
-</p>
+![Stars](https://img.shields.io/github/stars/klamerick?color=5faa48&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/klamerick?style=for-the-badge)
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 </p>
+
 
 ---
 
 ## 📈 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=klamerick&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klamerick&theme=gruvbox&layout=compact&langs_count=4"
+    src="https://github-readme-stats.vercel.app/api?username=klamerick&show_icons=true&cache_seconds=86400"
+    height="160"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klamerick&layout=compact&cache_seconds=86400"
+    height="160"
+  />
+</p>
+
+
 
 ---
 
