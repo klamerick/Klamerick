@@ -3,7 +3,7 @@
 ⛏️ **Desenvolvedor Front-End**  
 🌱 **Técnico em Informática & Agroecologia**
 
-👋 Olá! Me chamo **Renan Klamerick**, tenho 18 anos e sou de **Vale do Anari – RO**.  
+👋 Olá! Me chamo **Renan Klamerick**, tenho 19 anos e sou de **Theobroma – RO**.  
 Sou movido por **tecnologia, sustentabilidade, redes e design gráfico**, sempre buscando unir o mundo digital com práticas ecológicas. 
 
 🛐 Cristão | 🥁 Baterista | 💡 Apaixonado por tecnologia com propósito
